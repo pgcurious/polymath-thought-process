@@ -353,23 +353,39 @@ Standing on the shoulders of giants:
 7. [**Chapter 7: Critical Thinking**](./chapter-07-critical-thinking.md)
    Evaluating claims and arguments
 
-8. **Chapter 8: Causal Thinking** *(Coming Soon)*
+8. [**Chapter 8: Causal Thinking**](./chapter-08-causal-thinking.md)
    Understanding cause and effect
 
-9. **Chapter 9: First Principles Thinking** *(Coming Soon)*
+9. [**Chapter 9: First Principles Thinking**](./chapter-09-first-principles.md)
    Building up from fundamental truths
 
-10. **Chapter 10: Abductive Thinking** *(Coming Soon)*
+10. [**Chapter 10: Abductive Thinking**](./chapter-10-abductive-thinking.md)
     Inference to the best explanation
 
-11. **Chapter 11: Convergent Thinking** *(Coming Soon)*
+11. [**Chapter 11: Convergent Thinking**](./chapter-11-convergent-thinking.md)
     Finding the one right answer
 
 ---
 
 ### **PART 3: THE CREATIVE FAMILY**
 
-12-17. **Design, Lateral, Creative, Divergent, Generative, Visual-Spatial Thinking** *(Coming Soon)*
+12. [**Chapter 12: Design Thinking**](./chapter-12-design-thinking.md)
+    Human-centered problem solving
+
+13. [**Chapter 13: Lateral Thinking**](./chapter-13-lateral-thinking.md)
+    Breaking logic to find solutions
+
+14. [**Chapter 14: Creative Thinking**](./chapter-14-creative-thinking.md)
+    Connecting the unconnected
+
+15. [**Chapter 15: Divergent Thinking**](./chapter-15-divergent-thinking.md)
+    Exploding possibilities
+
+16. [**Chapter 16: Generative Thinking**](./chapter-16-generative-thinking.md)
+    Systematic creation
+
+17. [**Chapter 17: Visual-Spatial Thinking**](./chapter-17-visual-spatial-thinking.md)
+    Reasoning in space and form
 
 ---
 
