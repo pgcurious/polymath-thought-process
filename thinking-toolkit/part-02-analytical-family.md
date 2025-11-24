@@ -16,7 +16,7 @@ The Analytical Family contains thinking types that help you:
 
 ### 1. Computational Thinking
 Breaking problems into algorithms, data structures, and processes
-- **Chapter 6**: [Computational Thinking](./chapter-06-computational-thinking.md) *(Coming Soon)*
+- **Chapter 6**: [Computational Thinking](./chapter-06-computational-thinking.md)
 
 ### 2. Critical Thinking
 Evaluating claims, arguments, and evidence for validity
@@ -117,10 +117,10 @@ For each of the 6 analytical thinking types, you'll discover:
 
 Begin with **Computational Thinking** (Chapter 6) to see how breaking problems into algorithms applies across all domains, from software to consciousness to social systems.
 
-→ [Chapter 6: Computational Thinking](./chapter-06-computational-thinking.md) *(Coming Soon)*
+→ [Chapter 6: Computational Thinking](./chapter-06-computational-thinking.md)
 
 ---
 
-**Status**: Part 2 chapters are planned for future development.
+**Status**: Part 2 Chapter 6 complete. Chapters 7-11 planned for future development.
 
 **Total Word Count for Part 2**: ~15,000 words across 6 chapters

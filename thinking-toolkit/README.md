@@ -331,23 +331,23 @@ Standing on the shoulders of giants:
 1. [**Chapter 1: The Polymath's Awakening**](./chapter-01-polymaths-awakening.md)
    What polymathic thinking is, why it matters, and how this book will transform your mind
 
-2. **Chapter 2: From Da Vinci to You** *(Coming Soon)*
+2. [**Chapter 2: From Da Vinci to You**](./chapter-02-da-vinci-to-you.md)
    The history of polymaths and how they thought differently
 
-3. **Chapter 3: The 35+ Thinking Types** *(Coming Soon)*
+3. [**Chapter 3: The 35+ Thinking Types**](./chapter-03-the-35-thinking-types---overvi.md)
    Overview of all thinking types and their family structure
 
-4. **Chapter 4: The Art of Translation** *(Coming Soon)*
+4. [**Chapter 4: The Art of Translation**](./chapter-04-the-art-of-translation---movin.md)
    Moving insights fluidly between domains
 
-5. **Chapter 5: Your Cognitive Operating System** *(Coming Soon)*
+5. [**Chapter 5: Your Cognitive Operating System**](./chapter-05-your-cognitive-operating-syste.md)
    Building your personal thinking architecture
 
 ---
 
 ### **PART 2: THE ANALYTICAL FAMILY**
 
-6. **Chapter 6: Computational Thinking** *(Coming Soon)*
+6. [**Chapter 6: Computational Thinking**](./chapter-06-computational-thinking.md)
    Breaking problems into algorithms
 
 7. **Chapter 7: Critical Thinking** *(Coming Soon)*
