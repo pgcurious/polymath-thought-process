@@ -58,7 +58,7 @@ Explore the thought process of designing a notification system that serves 10 bi
 
 ### 2. [The Thinking Toolkit: A Polymath's Guide to Mastering 35+ Ways to Think](./thinking-toolkit)
 
-**Status**: 🚧 In Progress (Chapters 1-40 Complete - Parts 1-8 Complete: Foundation + Analytical + Creative + Integrative + Strategic + Reflective + Interpersonal + Structural Families)
+**Status**: 🚧 In Progress (Chapters 1-41 Complete - Parts 1-8 Complete + Part 9 Chapter 41: Foundation + Analytical + Creative + Integrative + Strategic + Reflective + Interpersonal + Structural Families + Art of Selection)
 
 Discover how to think like a polymath—seeing patterns across software engineering, neuroscience, philosophy, psychology, teaching, and ancient wisdom traditions. Master 35+ thinking types organized into 7 families, from analytical to creative to integrative thinking. This isn't about knowing everything; it's about seeing connections everywhere.
 
