@@ -391,13 +391,42 @@ Standing on the shoulders of giants:
 
 ### **PART 4: THE INTEGRATIVE FAMILY**
 
-18-23. **Systems, Holistic, Integrative, Analogical, Narrative, Paradoxical Thinking** *(Coming Soon)*
+18. [**Chapter 18: Systems Thinking**](./chapter-18-systems-thinking.md)
+    Seeing wholes and relationships
+
+19. [**Chapter 19: Holistic Thinking**](./chapter-19-holistic-thinking.md)
+    Embracing interconnected totality
+
+20. [**Chapter 20: Integrative Thinking**](./chapter-20-integrative-thinking.md)
+    Synthesizing opposing ideas
+
+21. [**Chapter 21: Analogical Thinking**](./chapter-21-analogical-thinking.md)
+    Mapping patterns across domains
+
+22. [**Chapter 22: Narrative Thinking**](./chapter-22-narrative-thinking.md)
+    Understanding through stories
+
+23. [**Chapter 23: Paradoxical Thinking**](./chapter-23-paradoxical-thinking.md)
+    Holding contradictions in dynamic tension
 
 ---
 
 ### **PART 5: THE STRATEGIC FAMILY**
 
-24-28. **Strategic, Anticipatory, Probabilistic, Stochastic, Counterfactual Thinking** *(Coming Soon)*
+24. [**Chapter 24: Strategic Thinking**](./chapter-24-strategic-thinking.md)
+    Planning across time with competitive awareness
+
+25. [**Chapter 25: Anticipatory Thinking**](./chapter-25-anticipatory-thinking.md)
+    Forecasting futures and preparing for them
+
+26. [**Chapter 26: Probabilistic Thinking**](./chapter-26-probabilistic-thinking.md)
+    Reasoning with uncertainty and likelihood
+
+27. [**Chapter 27: Stochastic Thinking**](./chapter-27-stochastic-thinking.md)
+    Understanding random processes and their patterns
+
+28. [**Chapter 28: Counterfactual Thinking**](./chapter-28-counterfactual-thinking.md)
+    Reasoning about alternative realities
 
 ---
 
