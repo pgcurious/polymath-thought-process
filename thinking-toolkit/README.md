@@ -480,7 +480,7 @@ Standing on the shoulders of giants:
 
 ### **PART 9: THE POLYMATH'S MASTERY**
 
-41. **The Art of Selection** *(Coming Soon)*
+41. [**Chapter 41: The Art of Selection**](./chapter-41-art-of-selection.md)
     When to use which thinking type
 
 42. **10 Extended Case Studies** *(Coming Soon)*
