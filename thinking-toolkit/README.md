@@ -451,7 +451,17 @@ Standing on the shoulders of giants:
 
 ### **PART 7: THE INTERPERSONAL FAMILY**
 
-34-37. **Empathetic, Collaborative, Socratic, Dialectical Thinking** *(Coming Soon)*
+34. [**Chapter 34: Empathetic Thinking**](./chapter-34-empathetic-thinking.md)
+    Understanding through another's eyes
+
+35. [**Chapter 35: Collaborative Thinking**](./chapter-35-collaborative-thinking.md)
+    Intelligence emerges from connection
+
+36. [**Chapter 36: Socratic Thinking**](./chapter-36-socratic-thinking.md)
+    Discovering truth through questions
+
+37. [**Chapter 37: Dialectical Thinking**](./chapter-37-dialectical-thinking.md)
+    Synthesizing truth from contradiction
 
 ---
 
