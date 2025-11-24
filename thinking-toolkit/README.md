@@ -432,7 +432,20 @@ Standing on the shoulders of giants:
 
 ### **PART 6: THE REFLECTIVE FAMILY**
 
-29-33. **Metacognition, Reflective, Intuitive, Embodied, Ethical Thinking** *(Coming Soon)*
+29. [**Chapter 29: Metacognition**](./chapter-29-metacognition.md)
+    Thinking about thinking—monitoring and regulating your own cognitive processes
+
+30. [**Chapter 30: Reflective Thinking**](./chapter-30-reflective-thinking.md)
+    Examining experiences to extract wisdom
+
+31. [**Chapter 31: Intuitive Thinking**](./chapter-31-intuitive-thinking.md)
+    Accessing non-conscious pattern recognition and rapid knowing
+
+32. [**Chapter 32: Embodied Thinking**](./chapter-32-embodied-thinking.md)
+    Reasoning through bodily sensations and somatic intelligence
+
+33. [**Chapter 33: Ethical Thinking**](./chapter-33-ethical-thinking.md)
+    Reasoning about right action and moral values
 
 ---
 
