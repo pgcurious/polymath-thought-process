@@ -350,7 +350,7 @@ Standing on the shoulders of giants:
 6. [**Chapter 6: Computational Thinking**](./chapter-06-computational-thinking.md)
    Breaking problems into algorithms
 
-7. **Chapter 7: Critical Thinking** *(Coming Soon)*
+7. [**Chapter 7: Critical Thinking**](./chapter-07-critical-thinking.md)
    Evaluating claims and arguments
 
 8. **Chapter 8: Causal Thinking** *(Coming Soon)*

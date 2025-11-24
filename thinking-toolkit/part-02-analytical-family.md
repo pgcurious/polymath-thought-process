@@ -20,7 +20,7 @@ Breaking problems into algorithms, data structures, and processes
 
 ### 2. Critical Thinking
 Evaluating claims, arguments, and evidence for validity
-- **Chapter 7**: [Critical Thinking](./chapter-07-critical-thinking.md) *(Coming Soon)*
+- **Chapter 7**: [Critical Thinking](./chapter-07-critical-thinking.md)
 
 ### 3. Causal Thinking
 Understanding cause-and-effect relationships and mechanisms
@@ -121,6 +121,6 @@ Begin with **Computational Thinking** (Chapter 6) to see how breaking problems i
 
 ---
 
-**Status**: Part 2 Chapter 6 complete. Chapters 7-11 planned for future development.
+**Status**: Part 2 Chapters 6-7 complete. Chapters 8-11 planned for future development.
 
 **Total Word Count for Part 2**: ~15,000 words across 6 chapters
