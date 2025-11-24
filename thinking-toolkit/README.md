@@ -444,7 +444,14 @@ Standing on the shoulders of giants:
 
 ### **PART 8: THE STRUCTURAL FAMILY**
 
-38-40. **Taxonomic, Constructive, Recursive Thinking** *(Coming Soon)*
+38. [**Chapter 38: Taxonomic Thinking**](./chapter-38-taxonomic-thinking.md)
+    Creating classifications and organizing into hierarchies
+
+39. [**Chapter 39: Constructive Thinking**](./chapter-39-constructive-thinking.md)
+    Building complex wholes from simpler parts
+
+40. [**Chapter 40: Recursive Thinking**](./chapter-40-recursive-thinking.md)
+    Recognizing and creating self-referential patterns
 
 ---
 
