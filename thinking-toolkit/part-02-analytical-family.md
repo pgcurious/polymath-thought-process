@@ -24,19 +24,19 @@ Evaluating claims, arguments, and evidence for validity
 
 ### 3. Causal Thinking
 Understanding cause-and-effect relationships and mechanisms
-- **Chapter 8**: [Causal Thinking](./chapter-08-causal-thinking.md) *(Coming Soon)*
+- **Chapter 8**: [Causal Thinking](./chapter-08-causal-thinking.md)
 
 ### 4. First Principles Thinking
 Reducing to fundamental truths and rebuilding from scratch
-- **Chapter 9**: [First Principles Thinking](./chapter-09-first-principles.md) *(Coming Soon)*
+- **Chapter 9**: [First Principles Thinking](./chapter-09-first-principles.md)
 
 ### 5. Abductive Thinking
 Inferring the best explanation from incomplete information
-- **Chapter 10**: [Abductive Thinking](./chapter-10-abductive-thinking.md) *(Coming Soon)*
+- **Chapter 10**: [Abductive Thinking](./chapter-10-abductive-thinking.md)
 
 ### 6. Convergent Thinking
 Narrowing down to the single best answer or solution
-- **Chapter 11**: [Convergent Thinking](./chapter-11-convergent-thinking.md) *(Coming Soon)*
+- **Chapter 11**: [Convergent Thinking](./chapter-11-convergent-thinking.md)
 
 ## When to Use Analytical Thinking
 
@@ -121,6 +121,6 @@ Begin with **Computational Thinking** (Chapter 6) to see how breaking problems i
 
 ---
 
-**Status**: Part 2 Chapters 6-7 complete. Chapters 8-11 planned for future development.
+**Status**: Part 2 Chapters 6-11 complete.
 
-**Total Word Count for Part 2**: ~15,000 words across 6 chapters
+**Total Word Count for Part 2**: ~27,000 words across 6 chapters
